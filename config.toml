@@ -1,4 +1,4 @@
-baseURL = 'https://dibeshmsshrestha.github.io/'
+baseURL = 'https://dibeshmsshrestha.github.io/first-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
