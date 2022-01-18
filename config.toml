@@ -1,4 +1,4 @@
-ccbaseURL = 'http://example.org/'
+ccbaseURL = 'https://dibeshmsshrestha.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
